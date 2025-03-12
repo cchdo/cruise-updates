@@ -6,13 +6,15 @@ export default function CruiseUpdates() {
   if (loading) return <p>Loading cruise updates...</p>;
 
   return (
-    <div className="panel panel-default">
-      <div className="panel-body">
-        {Object.entries(updates).map(([month, updates]) => (
-          <div key={month} className="panel panel-default">
-            <div className="panel-heading"><strong>{month}</strong></div>
-            <table className="table">
-              <thead>
+    <div className="container">
+      {Object.entries(updates).map(([month, updates]) => (
+        <div key={month} className="card mb-3">
+          <div className="card-header">
+            <h4 className="mb-0">{month}</h4>
+          </div>
+          <div className="card-body">
+            <table className="table table-bordered table-striped">
+              <thead className="thead-dark">
                 <tr>
                   <th style={{ width: "35%" }}>Cruise Name / Section ID</th>
                   <th style={{ width: "25%" }}>Expocode</th>
@@ -36,8 +38,8 @@ export default function CruiseUpdates() {
               </tbody>
             </table>
           </div>
-        ))}
-      </div>
+        </div>
+      ))}
     </div>
   );
 }
