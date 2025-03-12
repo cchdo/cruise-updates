@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const DATA_URL = "/cruise_updates.json";
+const DATA_URL = "https://cruise-updates.pages.dev/cruise_updates.json";
 
 interface CruiseUpdate {
   date_updated: string;
