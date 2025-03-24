@@ -8,14 +8,12 @@ export default function CruiseUpdates() {
   return (
     <div className="container">
       {Object.entries(updates).map(([month, updates]) => (
-        <div key={month} className="card mb-3">
-          <div className="card-header">
-            <h4 className="mb-0">{month}</h4>
-          </div>
-          <div className="card-body">
+        <div key={month}>
+          <h4>{month}</h4>
+          <div className="table-responsive">
             <table className="table table-bordered table-striped">
-              <thead className="thead-dark">
-                <tr>
+              <thead>
+                <tr className="info">
                   <th style={{ width: "35%" }}>Cruise Name / Section ID</th>
                   <th style={{ width: "25%" }}>Expocode</th>
                   <th style={{ width: "15%" }}>Year</th>
