@@ -1,4 +1,46 @@
 [
+  {
+    "date_updated": "2025-03-05",
+    "sect_id": "RF1503",
+    "year": 2014,
+    "expocode": "49UP20140307",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-03-05",
+    "sect_id": "RF1409",
+    "year": 2014,
+    "expocode": "49UP20141112",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-03-05",
+    "sect_id": "RF1501",
+    "year": 2015,
+    "expocode": "49UP20150110",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-03-05",
+    "sect_id": "RF1503",
+    "year": 2015,
+    "expocode": "49UP20150408",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-03-20",
+    "sect_id": "A16S",
+    "year": 2013,
+    "expocode": "33RO20131223",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-03-06",
+    "sect_id": "P14",
+    "year": 2023,
+    "expocode": "49NZ20231006",
+    "update_type": "Bottle"
+  },
     {
       "date_updated": "2025-02-19",
       "sect_id": "TAIPro2022",
@@ -24,7 +66,7 @@
       "date_updated": "2025-02-18",
       "sect_id": "RF1601",
       "year": 2016,
-      "expocode": "49UP20161009",
+      "expocode": "49UP20160109",
       "update_type": "Bottle"
     },
     {
