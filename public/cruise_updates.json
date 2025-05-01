@@ -1,5 +1,61 @@
 [
   {
+    "date_updated": "2025-04-30",
+    "sect_id": "RF1304",
+    "year": 2013,
+    "expocode": "49UP20130426",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-04-30",
+    "sect_id": "A13.5",
+    "year": 2024,
+    "expocode": "33H320240201",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-04-28",
+    "sect_id": "RF1401",
+    "year": 2014,
+    "expocode": "49UP20140108",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-04-28",
+    "sect_id": "RF1310",
+    "year": 2013,
+    "expocode": "49UP20131128",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-04-18",
+    "sect_id": "NBP2404",
+    "year": 2024,
+    "expocode": "326020240411",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-04-16",
+    "sect_id": "AR04e",
+    "year": 1994,
+    "expocode": "06MT27_3",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-04-04",
+    "sect_id": "P16N",
+    "year": 2005,
+    "expocode": "33RR200501",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-04-04",
+    "sect_id": "P18",
+    "year": 2016,
+    "expocode": "33RO20161119",
+    "update_type": "Bottle"
+  },
+  {
     "date_updated": "2025-03-05",
     "sect_id": "RF1402",
     "year": 2014,
