@@ -1,5 +1,47 @@
 [
   {
+    "date_updated": "2025-05-31",
+    "sect_id": "A13.5",
+    "year": 2010,
+    "expocode": "33RO20100308",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-05-31",
+    "sect_id": "S04P",
+    "year": 2011,
+    "expocode": "320620110219",
+    "update_type": "Trace Metals"
+  },
+  {
+    "date_updated": "2025-05-30",
+    "sect_id": "A16N",
+    "year": 2023,
+    "expocode": "33RO20230306",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-05-23",
+    "sect_id": "I08S",
+    "year": 2024,
+    "expocode": "325020240221",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-05-02",
+    "sect_id": "A05",
+    "year": 2015,
+    "expocode": "74EQ20151206",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-05-23",
+    "sect_id": "Ellett Line",
+    "year": 2012,
+    "expocode": "74E320120731",
+    "update_type": "Bottle"
+  },
+  {
     "date_updated": "2025-04-30",
     "sect_id": "RF1304",
     "year": 2013,
