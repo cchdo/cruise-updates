@@ -210,13 +210,6 @@
     "update_type": "Bottle"
   },
   {
-    "date_updated": "2025-06-04",
-    "sect_id": "I09N",
-    "year": 2025,
-    "expocode": "325020250321",
-    "update_type": "Bottle"
-  },
-  {
     "date_updated": "2025-06-26",
     "sect_id": "WCOA13",
     "year": 2013,
@@ -249,7 +242,7 @@
     "sect_id": "I09N",
     "year": 2025,
     "expocode": "325020250321",
-    "update_type": "CTD"
+    "update_type": "Bottle, CTD"
   },
   {
     "date_updated": "2025-05-31",
