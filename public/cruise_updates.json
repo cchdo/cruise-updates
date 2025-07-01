@@ -1,5 +1,257 @@
 [
   {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1205",
+    "year": 2012,
+    "expocode": "49UF20120602",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1308",
+    "year": 2013,
+    "expocode": "49UF20131029",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1401",
+    "year": 2014,
+    "expocode": "49UF20140107",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1402",
+    "year": 2014,
+    "expocode": "49UF20140206",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1501",
+    "year": 2015,
+    "expocode": "49UF20150107",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1502",
+    "year": 2015,
+    "expocode": "49UF20150202",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1504",
+    "year": 2015,
+    "expocode": "49UF20150415",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1505",
+    "year": 2015,
+    "expocode": "49UF20150511",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1508",
+    "year": 2015,
+    "expocode": "49UF20151021",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1601",
+    "year": 2016,
+    "expocode": "49UF20160107",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1602",
+    "year": 2016,
+    "expocode": "49UF20160201",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1607",
+    "year": 2016,
+    "expocode": "49UF20160730",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-18",
+    "sect_id": "RF1702",
+    "year": 2017,
+    "expocode": "49UP20170201",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-18",
+    "sect_id": "RF1701",
+    "year": 2017,
+    "expocode": "49UP20170107",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-18",
+    "sect_id": "RF1302",
+    "year": 2013,
+    "expocode": "49UP20130307",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-18",
+    "sect_id": "RF1208",
+    "year": 2012,
+    "expocode": "49UP20121116",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-18",
+    "sect_id": "RF1202",
+    "year": 2012,
+    "expocode": "49UP20120306",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-18",
+    "sect_id": "RF2109",
+    "year": 2011,
+    "expocode": "49UP20110912",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-17",
+    "sect_id": "P01",
+    "year": 2014,
+    "expocode": "49NZ20140717",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-11",
+    "sect_id": "SBPO08",
+    "year": 2008,
+    "expocode": "35TH20080825",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1705",
+    "year": 2017,
+    "expocode": "49UF20170612",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1704",
+    "year": 2017,
+    "expocode": "49UF20170502",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1703",
+    "year": 2017,
+    "expocode": "49UF20170408",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1702",
+    "year": 2017,
+    "expocode": "49UF20170228",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1609",
+    "year": 2016,
+    "expocode": "49UF20161116",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1608",
+    "year": 2016,
+    "expocode": "49UF20160917",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1203",
+    "year": 2012,
+    "expocode": "49UF20120410",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-05",
+    "sect_id": "KS1008",
+    "year": 2010,
+    "expocode": "49UF20101109",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-25",
+    "sect_id": "P16N",
+    "year": 2015,
+    "expocode": "33RO20150410",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-13",
+    "sect_id": "A22",
+    "year": 2021,
+    "expocode": "325020210420",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-04",
+    "sect_id": "I09N",
+    "year": 2025,
+    "expocode": "325020250321",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-26",
+    "sect_id": "WCOA13",
+    "year": 2013,
+    "expocode": "32P020130821",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-25",
+    "sect_id": "WCOA13",
+    "year": 2013,
+    "expocode": "317W20130803",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-06",
+    "sect_id": "BEST",
+    "year": 2009,
+    "expocode": "316N20090614",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-06-25",
+    "sect_id": "AR28",
+    "year": 2022,
+    "expocode": "740H20220712",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-06-04",
+    "sect_id": "I09N",
+    "year": 2025,
+    "expocode": "325020250321",
+    "update_type": "CTD"
+  },
+  {
     "date_updated": "2025-05-31",
     "sect_id": "A13.5",
     "year": 2010,
