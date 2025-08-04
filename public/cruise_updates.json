@@ -1,5 +1,110 @@
 [
   {
+    "date_updated": "2025-07-29",
+    "sect_id": "AR7W",
+    "year": 2006,
+    "expocode": "18HU20060524",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-07-24",
+    "sect_id": "P13",
+    "year": 2011,
+    "expocode": "49UP20110515",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-07-23",
+    "sect_id": "A12",
+    "year": 2012,
+    "expocode": "06AQ20120107",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-07-17",
+    "sect_id": "75N",
+    "year": 2016,
+    "expocode": "58GS20160802",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-07-15",
+    "sect_id": "RF0901",
+    "year": 2009,
+    "expocode": "49UP20090117",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-07-15",
+    "sect_id": "A12",
+    "year": 2012,
+    "expocode": "06AQ20120107",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-07-14",
+    "sect_id": "RF1707",
+    "year": 2017,
+    "expocode": "49UP20170623",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-07-11",
+    "sect_id": "P13",
+    "year": 2018,
+    "expocode": "49UP20180614",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-07-11",
+    "sect_id": "P03W",
+    "year": 2021,
+    "expocode": "49UP20210719",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-07-11",
+    "sect_id": "P09",
+    "year": 2022,
+    "expocode": "49UP20220727",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-07-08",
+    "sect_id": "RF0811",
+    "year": 2008,
+    "expocode": "49UP20081105",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-07-02",
+    "sect_id": "P09",
+    "year": 2016,
+    "expocode": "49UP20160703",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-07-01",
+    "sect_id": "M116/1",
+    "year": 2015,
+    "expocode": "06M320150501",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-07-30",
+    "sect_id": "P02",
+    "year": 2022,
+    "expocode": "33RR20220430",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-07-17",
+    "sect_id": "P16N",
+    "year": 2015,
+    "expocode": "33RO20150525",
+    "update_type": "Bottle"
+  },
+  {
     "date_updated": "2025-06-05",
     "sect_id": "KS1205",
     "year": 2012,
