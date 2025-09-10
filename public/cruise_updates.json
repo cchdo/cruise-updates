@@ -1,5 +1,47 @@
 [
   {
+    "date_updated": "2025-08-28",
+    "sect_id": "A16N",
+    "year": 2003,
+    "expocode": "33RO200306_01",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-08-15",
+    "sect_id": "ARK-IX/4",
+    "year": 1993,
+    "expocode": "06AQ19930806",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-08-08",
+    "sect_id": "ISS01",
+    "year": 2004,
+    "expocode": "74DI20041103",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-08-05",
+    "sect_id": "P02",
+    "year": 2022,
+    "expocode": "33RR20220613",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-08-04",
+    "sect_id": "M4WF",
+    "year": 1998,
+    "expocode": "36AE19981014",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-08-01",
+    "sect_id": "AR7W",
+    "year": 1999,
+    "expocode": "18HU19990627",
+    "update_type": "Cruise Report"
+  },
+  {
     "date_updated": "2025-07-29",
     "sect_id": "AR7W",
     "year": 2006,
