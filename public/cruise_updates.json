@@ -1,5 +1,82 @@
 [
   {
+    "date_updated": "2025-09-30",
+    "sect_id": "SAVE5",
+    "year": 1998,
+    "expocode": "318MSAVE5",
+    "update_type": "Large Volume"
+  },
+  {
+    "date_updated": "2025-09-16",
+    "sect_id": "P06",
+    "year": 2017,
+    "expocode": "320620170703",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-09-30",
+    "sect_id": "A16",
+    "year": 1989,
+    "expocode": "64TR19890731",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-09-30",
+    "sect_id": "A17",
+    "year": 2002,
+    "expocode": "29HE20020304",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2025-09-23",
+    "sect_id": "AR7E",
+    "year": 2009,
+    "expocode": "64PE20090924",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2025-09-17",
+    "sect_id": "RF1707",
+    "year": 2017,
+    "expocode": "49UP20170623",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-09-17",
+    "sect_id": "KS1101",
+    "year": 2011,
+    "expocode": "49UF20110108",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-09-17",
+    "sect_id": "I09S",
+    "year": 2012,
+    "expocode": "09AR20120105",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-09-08",
+    "sect_id": "C001",
+    "year": 2016,
+    "expocode": "49HH20160531",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-09-04",
+    "sect_id": "Meteor 55",
+    "year": 2002,
+    "expocode": "06MT20021013",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-09-02",
+    "sect_id": "A21",
+    "year": 2008,
+    "expocode": "740H20081226",
+    "update_type": "Cruise Report"
+  },
+  {
     "date_updated": "2025-08-28",
     "sect_id": "A16N",
     "year": 2003,
