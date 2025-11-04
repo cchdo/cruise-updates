@@ -1,5 +1,61 @@
 [
   {
+    "date_updated": "2025-10-09",
+    "sect_id": "Sr1b",
+    "year": 2003,
+    "expocode": "74JC20031201",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-10-03",
+    "sect_id": "Ellett Line",
+    "year": 2009,
+    "expocode": "74E320090610",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2025-10-30",
+    "sect_id": "I05",
+    "year": 2023,
+    "expocode": "33RR20230722",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-10-30",
+    "sect_id": "P06",
+    "year": 2017,
+    "expocode": "320620170820",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2025-10-06",
+    "sect_id": "AR07E",
+    "year": 2009,
+    "expocode": "64PE20090924",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2025-10-24",
+    "sect_id": "Ovide10",
+    "year": 2010,
+    "expocode": "35HT20100610",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2025-10-24",
+    "sect_id": "JR299",
+    "year": 2014,
+    "expocode": "74JC20140308",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2025-10-24",
+    "sect_id": "FICARAM IV",
+    "year": 2002,
+    "expocode": "29HE20020304",
+    "update_type": "CTD"
+  },
+  {
     "date_updated": "2025-09-30",
     "sect_id": "SAVE5",
     "year": 1998,
