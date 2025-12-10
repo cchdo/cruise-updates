@@ -1,5 +1,26 @@
 [
   {
+  "date_updated": "2025-11-26",
+  "sect_id": "I09S",
+  "year": 2024,
+  "expocode": "096U20240101",
+  "update_type": "CTD"
+},
+{
+  "date_updated": "2025-11-18",
+  "sect_id": "NBP2404",
+  "year": 2024,
+  "expocode": "326020240411",
+  "update_type": "Bottle, CTD"
+},
+{
+  "date_updated": "2025-11-05",
+  "sect_id": "MSM72",
+  "year": 2018,
+  "expocode": "06M220180302",
+  "update_type": "Bottle"
+},
+  {
     "date_updated": "2025-10-09",
     "sect_id": "Sr1b",
     "year": 2003,
