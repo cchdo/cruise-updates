@@ -1,5 +1,26 @@
 [
   {
+    "date_updated": "2026-01-23",
+    "sect_id": "SR02",
+    "year": 2004,
+    "expocode": "90AV20041104",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2026-01-13",
+    "sect_id": "P15S",
+    "year": 2016,
+    "expocode": "096U20160426",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-01-07",
+    "sect_id": "06MT36/2",
+    "year": 1996,
+    "expocode": "06MT19960613",
+    "update_type": "Cruise Report"
+  },
+  {
     "date_updated": "2025-12-16",
     "sect_id": "PR17",
     "year": 1992,
