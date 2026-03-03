@@ -1,5 +1,68 @@
 [
   {
+    "date_updated": "2026-02-26",
+    "sect_id": "P06W",
+    "year": 2009,
+    "expocode": "318M20091121",
+    "update_type": "Trace Metals"
+  },
+  {
+    "date_updated": "2026-02-26",
+    "sect_id": "AR07E",
+    "year": 2007,
+    "expocode": "64PE20070830",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2026-02-25",
+    "sect_id": "P04E",
+    "year": 2025,
+    "expocode": "49NZ20250405",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2026-02-25",
+    "sect_id": "AR07W",
+    "year": 2005,
+    "expocode": "18HU20050526",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2026-02-18",
+    "sect_id": "OISO",
+    "year": 2011,
+    "expocode": "35MF20110114",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2026-02-18",
+    "sect_id": "I09S",
+    "year": 2024,
+    "expocode": "096U20240101",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-02-11",
+    "sect_id": "A16N",
+    "year": 2023,
+    "expocode": "33RO20230306",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2026-02-11",
+    "sect_id": "A16N",
+    "year": 2023,
+    "expocode": "33RO20230413",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2026-02-10",
+    "sect_id": "P17",
+    "year": 2017,
+    "expocode": "49NZ20170208",
+    "update_type": "Bottle"
+  },
+  {
     "date_updated": "2026-01-23",
     "sect_id": "SR02",
     "year": 2004,
