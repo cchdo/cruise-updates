@@ -15,7 +15,7 @@
   },
   {
     "date_updated": "2026-04-02",
-    "sect_id": "",
+    "sect_id": "P06E",
     "year": 2010,
     "expocode": "318M20100105",
     "update_type": "Bottle"
@@ -29,7 +29,7 @@
   },
   {
     "date_updated": "2026-03-26",
-    "sect_id": "",
+    "sect_id": "NBP 23-03",
     "year": 2023,
     "expocode": "320620230319",
     "update_type": "Cruise Report"
