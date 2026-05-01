@@ -1,5 +1,75 @@
 [
   {
+    "date_updated": "2026-04-29",
+    "sect_id": "A13.5",
+    "year": 2024,
+    "expocode": "33H320240201",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-04-23",
+    "sect_id": "AR07",
+    "year": 2023,
+    "expocode": "18QL20230524",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-04-02",
+    "sect_id": "",
+    "year": 2010,
+    "expocode": "318M20100105",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-03-30",
+    "sect_id": "P18",
+    "year": 2007,
+    "expocode": "33RO20071215",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-03-26",
+    "sect_id": "",
+    "year": 2023,
+    "expocode": "320620230319",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2026-03-25",
+    "sect_id": "PR06",
+    "year": 1996,
+    "expocode": "18DD9601_1",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-03-17",
+    "sect_id": "AR04",
+    "year": 2003,
+    "expocode": "06BE200305",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2026-03-09",
+    "sect_id": "AR28",
+    "year": 1992,
+    "expocode": "74CH19920925",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2026-03-06",
+    "sect_id": "AR26",
+    "year": 1997,
+    "expocode": "06MT37_2",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2026-03-04",
+    "sect_id": "P06W",
+    "year": 2009,
+    "expocode": "318M20091121",
+    "update_type": "Trace Metals"
+  },
+  {
     "date_updated": "2026-02-26",
     "sect_id": "P06W",
     "year": 2009,
