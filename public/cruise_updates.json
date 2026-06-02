@@ -1,5 +1,47 @@
 [
   {
+    "date_updated": "2026-05-29",
+    "sect_id": "A13.5/A12",
+    "year": 2020,
+    "expocode": "33RO20200321",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-05-29",
+    "sect_id": "I08S",
+    "year": 2024,
+    "expocode": "325020240221",
+    "update_type": "Cruise Report, Bottle"
+  },
+  {
+    "date_updated": "2026-05-29",
+    "sect_id": "NBP2211",
+    "year": 2022,
+    "expocode": "320620221108",
+    "update_type": "Data Report, Bottle"
+  },
+  {
+    "date_updated": "2026-05-26",
+    "sect_id": "SACO10W14S",
+    "year": 2025,
+    "expocode": "29HE20250409",
+    "update_type": "Cruise Report, Bottle"
+  },
+  {
+    "date_updated": "2026-05-20",
+    "sect_id": "P16N",
+    "year": 2006,
+    "expocode": "325020060213",
+    "update_type": "Trace Metals"
+  },
+  {
+    "date_updated": "2026-05-20",
+    "sect_id": "METEOR 51/2",
+    "year": 2001,
+    "expocode": "06MT20011018",
+    "update_type": "Cruise Report"
+  },
+  {
     "date_updated": "2026-04-29",
     "sect_id": "A13.5",
     "year": 2024,
