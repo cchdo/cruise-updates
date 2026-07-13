@@ -1,5 +1,54 @@
 [
   {
+    "date_updated": "2026-06-30",
+    "sect_id": "75N",
+    "year": 2003,
+    "expocode": "58GS20030922",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-06-29",
+    "sect_id": "AR7W",
+    "year": 2023,
+    "expocode": "18QL20230524",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2026-06-26",
+    "sect_id": "P04W",
+    "year": 2025,
+    "expocode": "49NZ20250405",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2026-06-25",
+    "sect_id": "MedSea2013",
+    "year": 2013,
+    "expocode": "29AJ20130502",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-06-25",
+    "sect_id": "A12/SR04",
+    "year": 2010,
+    "expocode": "06AQ20101128",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2026-06-22",
+    "sect_id": "RF0901",
+    "year": 2009,
+    "expocode": "49UP20090916",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-06-11",
+    "sect_id": "A12/SR04",
+    "year": 2016,
+    "expocode": "06AQ20161216",
+    "update_type": "Cruise Report"
+  },
+  {
     "date_updated": "2026-05-29",
     "sect_id": "A13.5/A12",
     "year": 2020,
