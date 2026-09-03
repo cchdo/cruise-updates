@@ -1,5 +1,47 @@
 [
   {
+    "date_updated": "2026-08-31",
+    "sect_id": "P02E",
+    "year": 2022,
+    "expocode": "33RR20220613",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-08-28",
+    "sect_id": "AR07W",
+    "year": 2023,
+    "expocode": "18QL20230524",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2026-08-25",
+    "sect_id": "P04E",
+    "year": 2026,
+    "expocode": "33H320260511",
+    "update_type": "CTD, Bottle"
+  },
+  {
+    "date_updated": "2026-08-20",
+    "sect_id": "A01",
+    "year": 1994,
+    "expocode": "06MT30_3",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-08-19",
+    "sect_id": "P02",
+    "year": 2022,
+    "expocode": "33RR20220430",
+    "update_type": "CTD"
+  },
+  {
+    "date_updated": "2026-08-07",
+    "sect_id": "AR15",
+    "year": 1995,
+    "expocode": "35LLETAMBOT1_1",
+    "update_type": "Bottle"
+  },
+  {
     "date_updated": "2026-07-31",
     "sect_id": "P02",
     "year": 2022,
