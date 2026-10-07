@@ -1,5 +1,61 @@
 [
   {
+    "date_updated": "2026-09-28",
+    "sect_id": "PR05/PR06",
+    "year": 1992,
+    "expocode": "18EN9202_1",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-09-21",
+    "sect_id": "EPZT GP16",
+    "year": 2013,
+    "expocode": "325020131025",
+    "update_type": "Cruise Report"
+  },
+  {
+    "date_updated": "2026-09-16",
+    "sect_id": "Sonne",
+    "year": 2000,
+    "expocode": "06BE200011",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-09-15",
+    "sect_id": "ARK-II_3",
+    "year": 1984,
+    "expocode": "06AQ19840719",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-09-15",
+    "sect_id": "PR6",
+    "year": 1993,
+    "expocode": "18DD19930307",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-09-11",
+    "sect_id": "SPR93",
+    "year": 1993,
+    "expocode": "90PI19930428",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-09-08",
+    "sect_id": "ARK-XXII_2",
+    "year": 2007,
+    "expocode": "06AQ20070728",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-09-02",
+    "sect_id": "A06",
+    "year": 1993,
+    "expocode": "35A3CITHER1_2",
+    "update_type": "Bottle"
+  },
+  {
     "date_updated": "2026-08-31",
     "sect_id": "P02E",
     "year": 2022,
