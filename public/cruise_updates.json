@@ -1,5 +1,19 @@
 [
   {
+    "date_updated": "2026-10-20",
+    "sect_id": "A02",
+    "year": 1994,
+    "expocode": "06MT19941012",
+    "update_type": "Bottle"
+  },
+  {
+    "date_updated": "2026-10-12",
+    "sect_id": "A21",
+    "year": 2010,
+    "expocode": "74JC20100319",
+    "update_type": "Bottle"
+  },
+  {
     "date_updated": "2026-09-28",
     "sect_id": "PR05/PR06",
     "year": 1992,
